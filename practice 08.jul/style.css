@@ -1,0 +1,26 @@
+.touristplaces{
+          color:  grayrgba(128, 128, 128, 0.37);
+          font-family: 'Times New Roman', Times, serif;
+          font-size: xx-large;
+          font-weight: 900;
+          text-align: center;
+}
+
+.para1{
+    text-align: center;
+    color: rgb(106, 106, 150);
+}
+
+.one{
+color: white;
+display: flex;
+}
+
+.two{
+    color: white;
+}
+
+.three{
+    color: white;
+}
+
